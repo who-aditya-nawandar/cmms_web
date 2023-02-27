@@ -44380,7 +44380,7 @@ case 7:s=12
 break
 default:s=4
 break}break
-case 5:m="https://3.111.196.218/CMMS_API/api/"+b6
+case 5:m="http://3.111.196.218/CMMS_API/api/"+b6
 if(b9)A.ma()
 p=14
 s=17
@@ -44407,7 +44407,7 @@ case 13:s=2
 break
 case 16:s=4
 break
-case 6:k="https://3.111.196.218/CMMS_API/api/"+b6
+case 6:k="http://3.111.196.218/CMMS_API/api/"+b6
 p=19
 if(b9)A.ma()
 s=22
@@ -44434,7 +44434,7 @@ case 18:s=2
 break
 case 21:s=4
 break
-case 7:i="https://3.111.196.218/CMMS_API/api/"+b6
+case 7:i="http://3.111.196.218/CMMS_API/api/"+b6
 p=24
 if(b9)A.ma()
 s=27
@@ -44461,7 +44461,7 @@ case 23:s=2
 break
 case 26:s=4
 break
-case 8:g="https://3.111.196.218/CMMS_API/api/"+b6
+case 8:g="http://3.111.196.218/CMMS_API/api/"+b6
 p=29
 if(b9)A.ma()
 s=32
@@ -44488,7 +44488,7 @@ case 28:s=2
 break
 case 31:s=4
 break
-case 9:e="https://3.111.196.218/CMMS_API/api/"+b6
+case 9:e="http://3.111.196.218/CMMS_API/api/"+b6
 p=34
 if(b9)A.ma()
 s=37
@@ -44518,7 +44518,7 @@ case 33:s=2
 break
 case 36:s=4
 break
-case 10:c="https://3.111.196.218/CMMS_API/api/"+b6
+case 10:c="http://3.111.196.218/CMMS_API/api/"+b6
 p=39
 if(b9)A.ma()
 s=42
@@ -44555,7 +44555,7 @@ case 38:s=2
 break
 case 41:s=4
 break
-case 11:a0="https://3.111.196.218/CMMS_API/api/"+b6
+case 11:a0="http://3.111.196.218/CMMS_API/api/"+b6
 p=46
 if(b9)A.ma()
 s=49
